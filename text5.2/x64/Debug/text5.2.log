@@ -1,0 +1,3 @@
+﻿  text5.2.c
+G:\C_Text\text5.2\text5.2\text5.2.c(14,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  text5.2.vcxproj -> G:\C_Text\text5.2\x64\Debug\text5.2.exe
